@@ -7,20 +7,20 @@ This project is created for Amadeus Case Study.
 **Backend:** Java 17, Spring Boot 3, Maven, JPA
 **Database:** MySQL
 
-
 # Description
 
 In tihs project;
 
-**Users can add airports.**
-**Users can add flights.**
-**Users can lists flights.**
-**Users can list flights oneway/two way directions.**
+
+### Users can add airports.
+### Users can add flights.
+### Users can lists flights.
+### Users can list flights oneway/two way directions.
 
 ## API End Points
 
-**/flights**
-**/airports**
+# /flights
+# /airports
 
 ## Swagger UI
 
