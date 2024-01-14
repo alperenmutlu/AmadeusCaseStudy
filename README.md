@@ -29,6 +29,9 @@ In tihs project;
 ## Schedule Job
 There is a shceduled job in this project which is working for every day; fecth flights from a mock api and save flights into the database.
 
+## Basic auth:
+Username:test password:test
+
 
 
 
